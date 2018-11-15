@@ -1,0 +1,10 @@
+﻿{
+  "siteDetails": {
+
+    "operationSourceId": 1,
+    "locationId": 0,
+    "machineName": "TEST-jmeter",
+    "machineIP": "192.168.1.105",
+    "operatorId": null
+  }
+}
